@@ -1,0 +1,37 @@
+* Terminal Linux
+    https://docs.google.com/presentation/d/1nJ_mMrlPmsFARWp47AOH4QAZ8a6S0BR7VqRXU64WDv0/edit#slide=id.p
+
+    https://github.com/gilmarferrini/linux-commands/blob/main/commands.md
+
+
+
+* HTML5 + CSS3
+    https://www.youtube.com/watch?v=ofFgnDtn_1c&ab_channel=CursoemV%C3%ADdeo
+
+
+* Ideias de projetos
+    https://github.com/florinpop17/app-ideas
+
+
+* Exercícios de Front
+    https://100dayscss.com/days/1/
+
+
+* JavaScript
+    https://learnjavascript.online/
+
+
+* Git
+    Começando com Git - Fabio Akita
+        https://www.youtube.com/watch?v=crk9cfCsgtE&ab_channel=NewertonVargasdeAra%C3%BAjo
+
+    Perfil personalizado README
+        https://www.youtube.com/watch?v=TsaLQAetPLU&ab_channel=RafaellaBallerini
+
+
+* Curso Git
+    https://www.youtube.com/watch?v=C18qzn7j4SM&list=PLQCmSnNFVYnRdgxOC_ufH58NxlmM6VYd1&ab_channel=RodrigoBranas
+
+
+* Commits Semânticos
+    https://blog.geekhunter.com.br/o-que-e-commit-e-como-usar-commits-semanticos/

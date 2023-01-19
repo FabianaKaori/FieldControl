@@ -1,0 +1,31 @@
+Básico
+
+1. Inicializar o git no repositório e criar um arquivo .txt, com seus filmes favoritos (MÁX 3). 
+2. Verificar as mudanças realizadas no repositório.
+3. Adicionar mudanças do repositório na staging area do git.
+4. Criar um commit com uma linda mensagem semântica (commitizen - pesquisar).
+5. Validar se o commit foi realmente criado.
+
+Ao trabalhar com um time de desenvolvimento, sempre buscamos boas práticas com o commit semântico e separação de responsabilidades. Sabendo disso, vamos começar a entender como é na prática de um desenvolvimento em equipe.
+
+1. Crie uma branch separada nomeada com uma semântica referente ao problema que ira realizar, no caso, adicionar novos filmes a lista
+2. Após adicionar os novos filmes a lista, adicionar as mudanças para staging area.
+3. Crie um novo commit semantico com as novas mudanças.
+4. Com as novas mudanças salvas, voce deve ir para sua branch “MASTER”, e mesclar as mudanças com a nova branch criada
+
+E possível criar problemas ao mesclar branchs, e você precisa estar ciente em como resolve-los.
+
+1. Crie uma nova branch a partir da sua **MASTER,** e na ultima linha do arquivo .txt realize algumas mudanças, adicionando novos filmes
+2. Adicione as mudanças e realize o commit.
+3. Retorne para a sua branch **MASTER,** a partir dela, crie uma nova branch
+4. Realize a mesma ação,  na ultima linha do arquivo .txt, realize algumas mudanças.
+5. Adicione as mudanças e realize o commit.
+6. Retorne para **MASTER**
+7. Mescle as duas branchs recém criadas, você ira notar que estará com conflitos.
+8. Corrigir os conflitos e realizar a mesclagem das branchs com a **MASTER**
+    
+    
+
+Ao final de tudo, log seus commits, deverá estar parecido com o exemplo
+
+https://slack-imgs.com/?c=1&o1=ro&url=https%3A%2F%2Frepeated-hub-fc7.notion.site%2Fimage%2Fhttps%253A%252F%252Fs3-us-west-2.amazonaws.com%252Fsecure.notion-static.com%252F333a8db5-3930-4efd-9bfb-43278bbab4a7%252FUntitled.png%3Ftable%3Dblock%26id%3D41520a43-c6ea-4dc7-8f51-4e1a547b1a1b%26width%3D2000%26userId%3D%26cache%3Dv2

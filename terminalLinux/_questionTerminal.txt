@@ -1,0 +1,7 @@
+-   Terminal e Linux  
+    1. Seguindo exemplos do curso e da apresentação, você deverá criar um script .sh (caso não saiba, estude um pouco na internet sobre), que é basicamente comandos do terminal em um script procedural. Dentro desse script você deverá criar se não existir uma pasta dentro da sua home do seu perfil, chamado 0“FIELD_ACADEMY”, e inserir dentro dessa pasta um arquivo helloWorld.js. Caso a pasta já exista, deve mostrar uma mensagem com “echo” dizendo que a pasta já exista!
+    2. Após realizar a atividade de criação da pasta FIELD_ACADEMY, instale o nodejs na sua ultima versão LTS, e acesse o novo arquivo   helloWorld.js   via editor de texto (nano, vi, qualquer outro), insira uma função que mostre uma mensagem com “Hello FieldAcademy”, e execute pelo proprio terminal.
+    3. Mover ou copiar o arquivo helloWorld.js para fora da pasta FIELD_ACADEMY.  
+    4. Realizado todos os processos acima, deverá compactar a pasta, e apagar apenas a pasta original.
+    
+      Realizar todos os processos via Shell Script ou apenas a atividade nº 1.  
